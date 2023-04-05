@@ -1,0 +1,15 @@
+body {
+background-color: blue;
+}
+
+.cracetsr{
+    background-color: aqua;
+}
+
+.p {
+    position: fixed;
+    color: blueviolet;
+    background-color: darkblue;
+    bottom: 0;
+    width: 100%;
+}
